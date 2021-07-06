@@ -4,7 +4,7 @@
     
     settings = {
       import = [
-        "/home/joe/dracula.yml"
+        "/home/joe/.config/nixpkgs/config/alacritty/dracula.yml"
       ];
 
       font = {
