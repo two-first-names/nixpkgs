@@ -10,5 +10,6 @@
 
   programs.home-manager.enable = true;
   programs.firefox.enable = true;
+  programs.go.enable = true;
   programs.vscode.enable = true;
 }

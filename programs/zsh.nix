@@ -8,6 +8,10 @@
       enable = true;
     };
 
+    envExtra = 
+    ''export PATH=$PATH:$HOME/go/bin
+    '';
+
     plugins = [
       {
         name = "powerlevel10k";
