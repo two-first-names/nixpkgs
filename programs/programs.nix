@@ -11,5 +11,6 @@
   programs.home-manager.enable = true;
   programs.firefox.enable = true;
   programs.go.enable = true;
+  programs.vim.enable = true;
   programs.vscode.enable = true;
 }

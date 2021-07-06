@@ -2,8 +2,9 @@
 
 {
   imports = [
-    ./programs/programs.nix
     ./pkgs.nix
+    ./private/private.nix
+    ./programs/programs.nix
   ];
   
   home.username = "joe";
